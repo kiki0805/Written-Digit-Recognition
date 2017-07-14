@@ -1,0 +1,5 @@
+python3 creat_model.py
+python3 predict.py test_image.jpg
+
+eg:
+python3 predict.py test1.jpg

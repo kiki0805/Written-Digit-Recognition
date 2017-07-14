@@ -1,0 +1,6 @@
+./test.sh
+>> primary_image.jpg
+
+eg:
+./test.sh
+>> test1.jpg
